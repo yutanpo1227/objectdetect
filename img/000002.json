@@ -1,0 +1,1 @@
+[{"image": "000002.jpg", "verified": false, "annotations": [{"label": "Robot", "coordinates": {"x": 726.0, "y": 361.5, "width": 412.0, "height": 385.0}}, {"label": "Robot", "coordinates": {"x": 671.0, "y": 50.5, "width": 316.0, "height": 99.0}}, {"label": "Goal", "coordinates": {"x": 250.0, "y": 114.5, "width": 498.0, "height": 227.0}}]}]
