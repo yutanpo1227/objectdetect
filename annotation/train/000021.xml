@@ -1,0 +1,26 @@
+<annotation>
+	<folder>img</folder>
+	<filename>000021.jpg</filename>
+	<path>/Users/yuukomazawa/Documents/python/objectdetect/img/000021.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>533</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Robot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>28</xmin>
+			<ymin>13</ymin>
+			<xmax>628</xmax>
+			<ymax>525</ymax>
+		</bndbox>
+	</object>
+</annotation>
